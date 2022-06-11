@@ -1,7 +1,7 @@
 # Autor
 Mateo Michini
 
-# 2021-parcial-de-paragima-logico
+# 2021-parcial-de-paragima-Funcional
 Parcial de Paradigma Funcional de la materia "Paradigmas de la programacion"
 
 # Aclaracion
