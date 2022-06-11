@@ -1,4 +1,13 @@
-# Currycoin
+# Autor
+Mateo Michini
+
+# 2021-parcial-de-paragima-logico
+Parcial de Paradigma Funcional de la materia "Paradigmas de la programacion"
+
+# Aclaracion
+Este codigo fue programado en el lenguaje  Haskell.
+
+#Enunciado: Currycoin
 
 Ahora que están tan de moda las criptomonedas, nosotros vamos a modelar la propia... Basta de esas farsas de BitCoin, Ethereum o Dogecoin... es hora de **Currycoin**.
 
